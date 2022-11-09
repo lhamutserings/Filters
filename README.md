@@ -10,5 +10,7 @@
 NEED MORE HELP ACCESSING FILTERS ?  
 WATCH THIS QUICK VIDEO TUTORIAL [HERE](https://youtu.be/YwMrTBiyinU)
 
+OR CHECK OUT THE INSTRUCTION MANUAL [HERE](https://github.com/lhamutserings/Filters/blob/main/Tutorial%20to%20access%20filter.pdf)
+
 
 </html>
